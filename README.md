@@ -51,6 +51,5 @@ This project is licensed under the **MIT License**.
 ## 🌟 Contributions
 Contributions are welcome! Feel free to fork this repo and submit a PR.
 
-## 📞 Contact
-For any issues or suggestions, reach out via [your-email@example.com] or open an issue in the repository.
+
 
